@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Hope you all enjoy your cloud learning journey!
+
 <!--
 **jasonslli/jasonslli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
